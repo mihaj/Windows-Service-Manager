@@ -11,5 +11,3 @@ This tool is pretty basic, all you have to do is copy it to the same folder as a
 *************
 
 Then you can start WindowsServiceDashboard.exe where you can manage that service. I might add more features in the future.
-
-For questions: info@mjc.si
